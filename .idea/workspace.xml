@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab97a7e4-07b0-4d34-9323-be68f6d83f0c" name="Changes" comment="Commit Aula06">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula07/Luta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula07/Lutador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula07/Programa.java" afterDir="false" />
+    <list default="true" id="ab97a7e4-07b0-4d34-9323-be68f6d83f0c" name="Changes" comment="Commit Aula07">
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula09/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula09/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula09/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula09/Publicacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,13 +96,22 @@
       <option name="project" value="LOCAL" />
       <updated>1737137897027</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit Aula07">
+      <option name="closed" value="true" />
+      <created>1737341470327</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737341470327</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Aula02, Aula03 e Aula04" />
     <MESSAGE value="Commit Aula05" />
     <MESSAGE value="Commit Aula06" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Aula06" />
+    <MESSAGE value="Commit Aula07" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Aula07" />
   </component>
 </project>
