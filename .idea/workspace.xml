@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab97a7e4-07b0-4d34-9323-be68f6d83f0c" name="Changes" comment="Commit Aula10 e Aula11">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula12/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula12/Arara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula12/Ave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula12/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula12/Canguru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula12/Cobra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula12/GoldFish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula12/Mamifero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula12/Peixe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula12/Reptil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula12/Tartaruga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula13/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula13/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula13/Lobo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula13/Mamifero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ab97a7e4-07b0-4d34-9323-be68f6d83f0c" name="Changes" comment="Commit Aula12 e Aula13" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741046486436</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit Aula12 e Aula13">
+      <option name="closed" value="true" />
+      <created>1741221187575</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741221187575</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,6 +145,7 @@
     <MESSAGE value="Commit Aula09" />
     <MESSAGE value="Commit Aula10" />
     <MESSAGE value="Commit Aula10 e Aula11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Aula10 e Aula11" />
+    <MESSAGE value="Commit Aula12 e Aula13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Aula12 e Aula13" />
   </component>
 </project>
